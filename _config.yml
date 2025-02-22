@@ -1,1 +1,6 @@
-theme :jeykll-theme-architect
+theme: jekyll-theme-architect
+title: Lenawei Safaris
+description: "Adventures That Teach, Memories That Last"
+show_downloads: true
+github:
+  is_project_page: false
