@@ -1,4 +1,4 @@
-# Lenawei Safaris
+ # Lenawei Safaris
 
 **Adventures That Teach, Memories That Last**
 
